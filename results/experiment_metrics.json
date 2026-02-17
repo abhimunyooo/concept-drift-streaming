@@ -1,0 +1,12 @@
+{
+    "default_adwin": {
+        "final_acc": 0.93865,
+        "mean_rolling": 0.9380768410526423,
+        "min_rolling": 0.867
+    },
+    "tuned_adwin": {
+        "final_acc": 0.94358,
+        "mean_rolling": 0.9430571218661034,
+        "min_rolling": 0.8695
+    }
+}

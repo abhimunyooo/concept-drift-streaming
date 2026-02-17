@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Streaming ML
+river
+
+# Metrics / utilities
+scikit-learn
+tqdm
+
+# Notebook
+jupyter
+
+# Dashboard (later stage)
+streamlit
+plotly
