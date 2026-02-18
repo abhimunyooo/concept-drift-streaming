@@ -1,5 +1,5 @@
 import pandas as pd
-from config import WINDOW_SIZE
+from .config import WINDOW_SIZE
 
 
 class MetricsTracker:

@@ -1,4 +1,4 @@
-from config import RETRAIN_MODE
+from .config import RETRAIN_MODE
 
 
 class Retrainer:

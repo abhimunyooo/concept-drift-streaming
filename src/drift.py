@@ -1,5 +1,5 @@
 from river import drift
-from config import ADWIN_DELTA
+from .config import ADWIN_DELTA
 
 
 class DriftDetector:

@@ -1,7 +1,7 @@
 import pandas as pd
 from river import stream as river_stream
 
-from config import DATA_PATH
+from .config import DATA_PATH
 
 
 class DataStream:

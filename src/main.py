@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
 
-from stream import DataStream
-from model import OnlineModel
-from drift import DriftDetector
-from retrain import Retrainer
-from metrics import MetricsTracker
-from config import VERBOSE
+from .stream import DataStream
+from .model import OnlineModel
+from .drift import DriftDetector
+from .retrain import Retrainer
+from .metrics import MetricsTracker
+from .config import VERBOSE
 
 
 def main():
